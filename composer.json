@@ -1,0 +1,18 @@
+{
+    "name": "hc/projet2021v1",
+    "description": "projet sans framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hugo Clavinas",
+            "email": "helc85.info@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
