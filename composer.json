@@ -10,7 +10,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "Router\\": "routes/"
+            "Router\\": "routes/",
+            "App\\": "app/"
         }
     },
     "minimum-stability": "stable",
